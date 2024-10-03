@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Wing from Hong Kong.
+- 👋 Hi, I’m Tony from Hong Kong.
 - 👀 I’m interested in digital marketing, blogging, photography, hiking and trail running. 
-- 🌱 I’m currently learning to make websites with static site generators, eg. Hugo.
-- 💞️ I’m looking to collaborate on SEO, content marketing, and digital marketing strategy.
+- 🌱 I’m currently learning to make websites with static site generators with Hugo.
+- 💞️ I’m looking to collaborate on SEO, content marketing, and digital marketing strategy especially for the Southeast Asia market.
 - 📫 You can reach me at hi@wingleung.me
 
 <!---
